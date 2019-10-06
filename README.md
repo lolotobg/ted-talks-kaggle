@@ -1,7 +1,8 @@
-# Exploring the TED Talks Kaggle [dataset](https://www.kaggle.com/rounakbanik/ted-talks)
+# Exploring the TED Talks Kaggle dataset
 
-More info for the dataset can be gathered from the introductiory parts of the dataset author's [analysis](https://www.kaggle.com/rounakbanik/ted-data-analysis).
+The [dataset](https://www.kaggle.com/rounakbanik/ted-talks) itself is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
+More info for the dataset can be gathered from the introductiory parts of the its author's [analysis](https://www.kaggle.com/rounakbanik/ted-data-analysis).
 Our purpose is to try and see what data could be useful for estimating `views` and/or `comments`.
 
 All experiments were run on the default `base` environment of a fresh installion of [Anaconda](https://www.anaconda.com/distribution/#download-section) 2019.07 for Linux.
